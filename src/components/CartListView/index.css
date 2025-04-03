@@ -1,0 +1,13 @@
+.cart-list {
+  padding-left: 0px;
+}
+
+.re-button {
+  color: rgb(71, 149, 208);
+  font-size: 14px;
+  border: none;
+  border-style: none;
+  align-self: flex-end;
+  background-color: transparent;
+  cursor:pointer;
+}
