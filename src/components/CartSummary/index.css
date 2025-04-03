@@ -1,1 +1,16 @@
 /* Write your CSS here */
+.popup-container {
+  background-color: aquamarine;
+  border-radius: 5px;
+  align-items: center;
+  padding: 25px;
+}
+
+.confirm-order {
+  color: #28c54f;
+  font-size: 18px;
+  text-align: center;
+  background-color: rgb(209, 205, 199);
+  min-width: 100vh;
+  min-height: 80vh;
+}
